@@ -177,5 +177,16 @@ class EntriesController extends AppController {
 	return $ipsAndCountries;
     }
 
+    function remove($wichEntries = null) {
+	    if (empty($wichEntries)) {
+		    return false;
+	    }
+
+	    if ($wichEntries == 'All') {
+		    $this->Entry->deleteAll('1 = 1', false);
+	    }
+	    return true;
+    }
+
 }
 ?>

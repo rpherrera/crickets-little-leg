@@ -4,6 +4,7 @@
 	<ul>
 		<li><?php echo $html->link(__('Show all entries', true), array('action' => 'index'));?></li>
 		<li><?php echo $html->link(__('View Iptables rules', true), array('action' => 'iptables')); ?></li>
+		<li><?php echo $html->link(__('Remove all database entries', true), array('action' => 'remove', 'All'), array(), "Are you sure you wish to delete ALL database entries?"); ?></li>
 	</ul>
 </div>
 
@@ -29,5 +30,6 @@
 	<ul>
 		<li><?php echo $html->link(__('Show all entries', true), array('action' => 'index'));?></li>
 		<li><?php echo $html->link(__('View Iptables rules', true), array('action' => 'iptables')); ?></li>
+		<li><?php echo $html->link(__('Remove all database entries', true), array('action' => 'remove', 'All'), array(), "Are you sure you wish to delete ALL database entries?"); ?></li>
 	</ul>
 </div>
