@@ -41,7 +41,7 @@
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $html->link(__('Crickets\' Little Leg: simple and fast - against SSH dictionary attacks', true), 'http://github.com/sirboderafael/Crickets--Little-Leg', array('target' => '_blank')); ?></h1>
+			<h1><?php echo $html->link(__('Crickets\' Little Leg: simple and fast - against SSH dictionary attacks', true), 'http://github.com/sirboderafael/Crickets-Little-Leg', array('target' => '_blank')); ?></h1>
 		</div>
 		<div id="content">
 
