@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Crickets Little Leg - Oooops: Error 404!</title>
+		<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" /><link rel="stylesheet" type="text/css" href="/css/cake.generic.css" /></head>
+	<body>
+		<div id="container">
+			<div id="content">
+				<h2>Error 404</h2>
+				<h3>Sorry about that!</h3>
+
+				<a href='http://www.turbosquid.com/FullPreview/Index.cfm/ID/323472' target='_blank'><img src='/img/cricket-large.jpg' /></a>
+
+				<p>The page you've requested me doesn't exists... yet!</p>
+				<br />
+				<br />
+				<p>Don't you wanna <a href='/'>come back to the main screen</a>?</p>
+			</div>
+		</div>
+	</body>
+</html>
