@@ -1,4 +1,4 @@
-<h2><?php __('Iptables rules:');?></h2>
+<h2><?php __('Iptables rules');?></h2>
 <div class="actions">
 	<ul>
 		<li><?php echo $html->link(__('Show all entries', true), array('action' => 'index'));?></li>
